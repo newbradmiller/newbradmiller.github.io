@@ -161,8 +161,8 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $Black;
-  background:  $lightGray;
+  border-bottom: 1px solid #ddd;
+  background-color:  $lightGray;
 
   @include mobile {
     text-align: center;
