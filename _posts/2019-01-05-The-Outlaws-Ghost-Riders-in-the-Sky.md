@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 published: true
 layout: post
 title: "The Outlaws - Ghost Riders in the Sky"
