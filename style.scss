@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $white;
+  background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -247,6 +247,27 @@ nav {
 // .main
 //
 
+.wrapper-main {
+  display: flex;
+  justify-content: space-between;
+}
+
+.main,
+.sidebar {
+  border: 3px solid black;
+  padding: 15px;
+  background-color: #fff;
+}
+
+.main {
+  width: 60%;
+  height: 150vh;
+}
+
+.sidebar {
+  width: 25%;
+  height: 25vh;
+}
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
