@@ -257,6 +257,9 @@ nav {
   border: 1px solid #ddd;
   padding: 15px;
   background-color: #fff;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
 }
 
 .main {
@@ -266,6 +269,7 @@ nav {
 
 .sidebar {
   width: 30%;
+  height: 150vh;
 }
 
 .posts > .post {
