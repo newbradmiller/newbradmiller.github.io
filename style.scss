@@ -163,6 +163,7 @@ img {
   padding: 20px 0;
   border-bottom: 1px solid #ddd;
   background-color:  $lightGray;
+  position: fixed;
 
   @include mobile {
     text-align: center;
