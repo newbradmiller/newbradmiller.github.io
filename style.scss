@@ -164,6 +164,7 @@ img {
   border-bottom: 1px solid #ddd;
   background-color:  $lightGray;
   position: fixed;
+  top: 0px;
 
   @include mobile {
     text-align: center;
@@ -249,8 +250,7 @@ nav {
 //
 
 .wrapper-main {
-  display: flex;
-  justify-content: space-between;
+  margin-top: 200px;
 }
 
 .main,
