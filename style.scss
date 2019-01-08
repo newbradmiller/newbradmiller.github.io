@@ -167,6 +167,9 @@ img {
   position:fixed;
   top:0px;
   z-index:1;
+  z-position: 999;
+  right: 0;
+  left: 0;
 }
 
 .wrapper-masthead {
@@ -265,7 +268,7 @@ nav {
 //
 
 .wrapper-main {
-   margin-top: 150px;
+   padding-top: 150px;
    display: flex;
    justify-content: space-between;
    position:relative;
