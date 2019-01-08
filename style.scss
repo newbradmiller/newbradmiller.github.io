@@ -162,8 +162,14 @@ img {
 // .masthead
 //
 
+.fixed-header { 
+  width:100%;
+  position:fixed;
+  top:0px;
+}
+
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin: 0px auto;
 }
 
 .masthead {
