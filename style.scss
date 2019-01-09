@@ -36,7 +36,6 @@ body {
   max-width: 1000px;
   padding: 0 10px;
   width: 100%;
-  position: relative;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -186,7 +185,6 @@ img {
   width:100%;
   position:fixed;
   top:0px;
-  z-index:1;
 }
 
 .masthead {
@@ -282,7 +280,6 @@ nav {
    display: flex;
    justify-content: space-between;
    position:relative;
-   z-index:2;
 }
 	
 .main,
