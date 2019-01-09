@@ -163,12 +163,9 @@ img {
 // .masthead
 //
 
-.fixed-header { 
-  width:100%;
-  position:fixed;
-  top:0px;
-  z-index:1;
-}
+//.fixed-header { 
+//
+//}
 
 //@supports(position:sticky){
 //.fixed-header {
@@ -185,6 +182,10 @@ img {
   margin-bottom: 0;
   margin-right: auto;
   margin-left: auto;
+  width:100%;
+  position:fixed;
+  top:0px;
+  z-index:1;
 }
 
 .masthead {
