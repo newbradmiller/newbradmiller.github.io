@@ -32,10 +32,16 @@ body {
 }
 
 .container {
-  margin: 0 auto;
   max-width: 1000px;
   padding: 0 10px;
   width: 100%;
+  margin-top: 150px;
+  margin-bottom: 0;
+  margin-right: auto;
+  margin-left: auto;
+  display: flex;
+  justify-content: space-between;
+  position:relative;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -277,10 +283,7 @@ nav {
 //
 
 .wrapper-main {
-   margin-top: 150px;
-   display: flex;
-   justify-content: space-between;
-   position:relative;
+  
 }
 	
 .main,
