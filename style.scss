@@ -293,14 +293,13 @@ nav {
 
 .main {
   width: 65%;
-
 }
 
 .sidebar {
   width: 30%;
   height: 50vh;
-  position: fixed;
-  top: 0px;
+  position: sticky;
+  top: 150px;
 }
 
 .posts > .post {
