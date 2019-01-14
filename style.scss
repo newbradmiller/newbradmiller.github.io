@@ -286,9 +286,10 @@ nav {
 	
 .main,
 .sidebar {
-  border: 1px solid #ddd;
   padding: 15px;
   background-color: #D0D6DD;
+  border-radius: 15px;
+  border: 2px solid #EEF1EF;
 }
 
 .main {
