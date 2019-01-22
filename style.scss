@@ -156,6 +156,22 @@ img {
     clear: both;
 }
 
+.button-nav {
+  color: #EEF1EF !important;
+  text-transform: uppercase;
+  background: #1C2321;
+  padding: 6px;
+  border: 2px solid #EEF1EF !important;
+  border-radius: 4px;
+  display: inline-block;
+}
+
+.button-nav:hover {
+  color: #0079C2; !important;
+  border-color: #0079C2 !important;
+  transition: all 0.4s ease 0s;
+}
+
 /*********************/
 /* LAYOUT / SECTIONS */
 /*********************/
