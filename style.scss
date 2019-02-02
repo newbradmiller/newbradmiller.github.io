@@ -319,6 +319,15 @@ nav {
   top: 150px;
 }
 
+.main-page {
+  width: 100%;
+  padding: 15px;
+  background-color: #D0D6DD;
+  border-radius: 2px 6px 2px 6px;
+  border: 2px solid #EEF1EF;
+  box-shadow: 5px 10px;
+}  
+
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
