@@ -302,7 +302,6 @@ nav {
 .main,
 .sidebar {
   padding: 15px;
-  background-color: #D0D6DD;
   border-radius: 2px 6px 2px 6px;
   border: 2px solid #EEF1EF;
   box-shadow: 5px 10px;
@@ -310,6 +309,7 @@ nav {
 
 .main {
   width: 65%;
+  background-color: #1C2321; 
 }
 
 .sidebar {
@@ -317,6 +317,8 @@ nav {
   height: 50vh;
   position: sticky;
   top: 150px;
+  background-color: #D0D6DD;
+  opacity:  0.5;
 }
 
 .main-page {
