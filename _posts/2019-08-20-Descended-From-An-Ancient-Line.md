@@ -49,4 +49,4 @@ And see the storm a shore.
   
 ---------  
   
-Excerpt from the original by John Dryden
+Excerpt from the original poem written by Horace 65BC
