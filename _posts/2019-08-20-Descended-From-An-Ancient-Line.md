@@ -49,4 +49,4 @@ With friendly Stars my safety seek
 Within some little winding Creek;  
 And see the storm a shore.  
   
-*Excerpt from the original poem written by Horace 65BC
+*Excerpt from the original poem written by Horace 65BC*
