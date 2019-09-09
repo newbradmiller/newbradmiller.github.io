@@ -13,8 +13,8 @@ The joys I have possest, in spight of fate, are mine.
 Not Heav’n it self upon the past has pow’r;  
 But what has been, has been, and I have had my hour.  
 <br/>
-<br/>
-Fortune, that with malicious joy  
+
+>Fortune, that with malicious joy  
 Does Man her slave oppress,  
 Proud of her Office to destory,  
 Is seldome pleas’d to bless:  
@@ -30,8 +30,8 @@ The little or the much she gave, is quietly resign’d:
 Content with poverty, my Soul I arm;  
 And Vertue, tho’ in rags, will keep me warm.  
 <br/>
-<br/>
-What is’t to me,  
+
+>What is’t to me,  
 Who never sail in her unfaithful Sea,  
 If Storms arise, and Clouds grow black;  
 If the Mast split, and threaten wreck?  
