@@ -4,7 +4,7 @@ layout: post
 title: Descended From an Ancient Line 
 date: 2019-08-20
 ---
-Happy the Man, and happy he alone,  
+>Happy the Man, and happy he alone,  
 He, who can call to day his own:  
 He who, secure within, can say,  
 To morrow do thy worst, for I have liv’d to-day.  
@@ -12,7 +12,8 @@ Be fair, or foul, or rain, or shine,
 The joys I have possest, in spight of fate, are mine.  
 Not Heav’n it self upon the past has pow’r;  
 But what has been, has been, and I have had my hour.  
-  
+<br/>
+<br/>
 Fortune, that with malicious joy  
 Does Man her slave oppress,  
 Proud of her Office to destory,  
@@ -28,7 +29,8 @@ I puff the Prostitute away:
 The little or the much she gave, is quietly resign’d:  
 Content with poverty, my Soul I arm;  
 And Vertue, tho’ in rags, will keep me warm.  
-  
+<br/>
+<br/>
 What is’t to me,  
 Who never sail in her unfaithful Sea,  
 If Storms arise, and Clouds grow black;  
@@ -47,6 +49,4 @@ With friendly Stars my safety seek
 Within some little winding Creek;  
 And see the storm a shore.  
   
----------  
-  
-Excerpt from the original poem written by Horace 65BC
+*Excerpt from the original poem written by Horace 65BC
