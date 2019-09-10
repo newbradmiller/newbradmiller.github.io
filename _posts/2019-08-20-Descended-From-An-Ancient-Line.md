@@ -12,7 +12,8 @@ Be fair, or foul, or rain, or shine,
 The joys I have possest, in spight of fate, are mine.  
 Not Heav’n it self upon the past has pow’r;  
 But what has been, has been, and I have had my hour.  
-&nbsp;
+
+
 Fortune, that with malicious joy  
 Does Man her slave oppress,  
 Proud of her Office to destory,  
@@ -28,7 +29,8 @@ I puff the Prostitute away:
 The little or the much she gave, is quietly resign’d:  
 Content with poverty, my Soul I arm;  
 And Vertue, tho’ in rags, will keep me warm.  
-&nbsp;
+
+
 What is’t to me,  
 Who never sail in her unfaithful Sea,  
 If Storms arise, and Clouds grow black;  
