@@ -16,4 +16,4 @@ Forth from their struggles, trials, fights, to have
 emerged at all—in that alone,
 True conquerors of life o'er all the rest.
 
-*Walt Whitman*
+*-Walt Whitman*
