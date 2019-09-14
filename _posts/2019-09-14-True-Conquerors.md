@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: True Conquerors
-date: 2019-08-20
+date: 2019-09-14
 ---
 >Old farmers, travellers, workmen (no matter
 how crippled or bent),
@@ -16,4 +16,4 @@ Forth from their struggles, trials, fights, to have
 emerged at all—in that alone,
 True conquerors of life o'er all the rest.
 
-*Walt Whitman
+*Walt Whitman*
