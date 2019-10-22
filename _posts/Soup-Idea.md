@@ -1,0 +1,16 @@
+---
+published: true
+layout: post
+title: Soup Idea
+date: 2019-10-22
+---
+I was laying around in Palm Gardens Park, I think that is the name of the park, and I had a magnificent soup idea beemed in from outer space.  I think it is because the day prior I gave my favorite meal that I had been saving for dinner to a guy on the street.  I was saving it for dinner, my Bolillo roll stuffed with spinach and vegetables from the salad bar, that's how I like to do them, the employees have been cracking down on me, but I still go for it because they are good like that and cheap.  I eat the roll with a ramen noodle soup, I like the Soon Veggie Noodle Soup that they have at Ralph's, it's Vegan and I'm vegan, so its good soup for me and it taste good with the bread.  
+
+Anyways I didn't think much of giving the soup and the roll out, I had just eaten, and the very next morning I'm laying around like I do most days and in beems this soup recipe.  Here it is in the case I ever get a chance to cook it for myself one day.  
+
+###Charred Cabbage and Onion Soup###
+
+*this soup idea starts with charring a head of cabbage and a bunch of white onions on a grill, cooking the cabbage and onions to the point that they don't need to cook that much more in the soup broth, because I wanted the cabbage and onion to be al dente, so I thought I would char it on the grill to give it that charr flavor and then refrigerate the charred head of cabbage and the onions until the broth was finished.  The broth would be a spicy manhattan chowder broth, the red broth, not sure how to make it but I will look it up one day and tinker with the spices until it is nice and spicy.  I will probably let the broth cook a day or two and then julienne the cabbage and the onions and let them cook a bit before serving the soup.  
+
+With the soup I will serve a scoop of cilantro lime rice and a jalapeno sweet corn puree, that will be a blend of sweet corn and jalapeno peppers and a non-dairy cream of some sort for sweetness.  I will drizzle that stuff on the soup and the rice and serve it with some naan or some vegan cornbread.*
+
