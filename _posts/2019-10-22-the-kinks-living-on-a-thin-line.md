@@ -8,7 +8,7 @@ Playing this as I curse everybody out loud at the library for talking over my co
 
 The world continues to put pressure on me to participate in ways that I don't care to participate in, my conscious reality does not agree with my world view and speaks vocally to me every chance it gets, its a constant fucking battle between every walking slag on the street and myself, and I am ready to go to a new world.  I hate most everybody in the most friendly way if you can imagine that.  
 
-I was told by some sort of cosmic consciousness that I shouldn't write this blog, that they would use my words against me.  Well, fuck that, I haven't done a god damn thing wrong in the last five years being homeless outside of stealing beer and food from the grocery stores (pretty much everyday) and kicking over a bunch of those stupid fucking scooters they park on the sidewalk, so I plan to continue to write the blog when I get the opportunity to do so, which is only once in a while.  
+I was told by some sort of cosmic consciousness that I shouldn't write this blog, that they would use my words against me.  Well, fuck that, I haven't done a god damn thing wrong in the last five years being homeless outside of stealing beer and food from the grocery stores and kicking over a bunch of those stupid fucking scooters they park on the sidewalk, so I plan to continue to write the blog when I get the opportunity to do so, which is only once in a while.  
 
 This song is pretty upbeat though, made me happier, so I thought I'd play it for you.  
 
